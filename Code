@@ -1,9 +1,9 @@
 #!/usr/bin/python
-# Author:					Billy O Sullivan
-# Script name:				quick_templates.py
-# Purpose: 					This script copies the text of certain 
-#							textfiles to the clipboard when a button is pressed
-# Created: 					09 September 2017
+# Author:			Billy O Sullivan
+# Script name:			quick_templates.py
+# Purpose: 			This script copies the text of certain 
+#				textfiles to the clipboard when a button is pressed
+# Created: 			09 September 2017
 # Last Edited by & date:	Billy O Sullivan - 09 September 2017
 
 
