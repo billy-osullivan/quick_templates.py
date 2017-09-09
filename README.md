@@ -1,0 +1,1 @@
+# quick_templates.py
